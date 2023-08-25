@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <body>
+            <!-- Preload -->
+            <section class="preloader" style="display: none;">
+                <div class="spinner">
+                     <span class="spinner-rotate"></span>
+                </div>
+           </section>
+           <section class="navbar custom-navbar navbar-fixed-top top-nav-collapse">
+            <!-- top-nav-collapse ergänzt, zur direkten anzeige des weissen navbar bg -->
+            <!-- MENU -->
+                 <div class="container">
+       
+                      <div class="navbar-header">
+                            <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                                <span class="icon icon-bar"></span>
+                                <span class="icon icon-bar"></span>
+                                <span class="icon icon-bar"></span>
+                           </button>
+                           <!--lOGO TEXT HERE -->
+                           <a href="index.html" class="navbar-brand groot"><img src="images/kjp-andreas-bohn-logo.png" alt="BA. Aline-Sophie Reiske, Kinder- und Jugendlichenpsychotherapeut" title="BA. Aline-Sophie Reiske, Kinder- und Jugendlichenpsychotherapeut"></a>
+                           <a href="index.html" class="navbar-brand kleen"><img src="images/kjp-andreas-bohn-logo-k.png" alt="BA. Aline-Sophie Reiske, Kinder- und Jugendlichenpsychotherapeut" title="BA. Aline-Sophie Reiske, Kinder- und Jugendlichenpsychotherapeut"></a>
+                      </div>
+       
+                      <!-- MENU LINKS -->
+                      <div class="collapse navbar-collapse">
+                           <ul class="nav navbar-nav navbar-nav-first">
+                                <li><a href="#psychotherapie" class="smoothScroll" title="verlinkt zum Profil von Aline-Sophie">Profil</a></li>
+                                <li><a href="#diagnostik" class="smoothScroll" title="verlinkt zu den diagnostischen Methoden, wie Psychodiagnostik oder ADHS Diagnostik">Diagnostik</a></li>
+                                <li><a href="#therapie" class="smoothScroll" title="verlinkt zu den therapeutischen Möglichkeiten, wie Psychotherapie oder Verhaltenstherapie">Therapie</a></li>
+                                <li><a href="#footer" class="smoothScroll" title="verlinkt zu den Kontaktmöglichkeiten zu Andreas Bohn, KJP-Praxis in Ibbenbüren bei Osnabrück">Kontakt</a></li>
+                           </ul>
+                      </div>
+       
+                 </div>
+            </section>
+           <!-- Desc Psychotherapie -->
+           <section id="psychotherapie" data-stellar-background-ratio="0.5" style="background-position: 0% -325px;">
+            <div class="container">
+                 <div class="row">
+                      <div class="psycho-info">
+                            <div class="section-title wow fadeInUp animated" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+                                 <h2 title="Psychotherapie" class="dingel"><span style="border-bottom: 2px solid #ebb622; padding-bottom:8px;">Psychotherapie</span></h2>
+                            </div>
+                            <div class="wow fadeInUp animated" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+                                 <p>In meiner Praxis werden psycho­therapeutische Behandlungen für Kinder, Jugendliche und junge Erwachsene bis zum 21. Lebensjahr und deren Familien bzw. Bezugs­personen angeboten. Grundsätzlich werden in der Praxis alle Störungs­bilder behandelt. <br>Als Schwerpunkte meiner Arbeit haben sich jedoch vor allem die Arbeit mit folgenden psychischen Störungen herauskristallisiert:</p> 
+                                 <p><strong>Angst- und Zwangsstörungen</strong>, <strong>Aufmerksamkeits­störungen</strong>, <strong>Depressionen</strong> sowie <strong>Post­traumatische Belastungs­störungen</strong> und sonstige <strong>Verhaltensstörungen</strong> wie zum Beispiel Stottern.</p>
+                                 <p>Ich arbeite bei Bedarf und vorliegender Schweigepflichtendbindung auch eng mit Kinderärzten, Psychiatern und Kinder- und Jugendpsychiatern zusammen.</p>
+                            </div>
+                      </div>
+                 </div>
+            </div>
+       </section>
+        </body>
+    </head>
+</html>
